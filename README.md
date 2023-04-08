@@ -32,7 +32,6 @@ Exercise
 				<td><font color="blue">3 Hours</td>
 			</tr>
 		</table>
-		</center>
 	</section><br>
 
 	<section>
@@ -73,6 +72,7 @@ Exercise
 				<td><font color="blue">Presentation</td>
 				<td><font color="blue">30 minutes</td>
 			</tr>
+		</table>
 	</section>
 
 	<section>
@@ -87,8 +87,11 @@ Exercise
 
 	<section>
 		<center><a href="details.html">Registration</a></center>
+	</section><br>
+	
+	<section>
+		<center><img src="image/cat.jpg" width="100px"></center>
 	</section>
-		</table>
 
 
 </body>
